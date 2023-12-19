@@ -1,4 +1,4 @@
-# Descripcion del proyecto :sparkling_heart:	
+# Project description :sparkling_heart:	
 
 - Project created using pagination and product classification enpoint
 
@@ -8,7 +8,7 @@
 | GET  | http://localhost:4000/products/filter |
 | GET  | http://localhost:4000/classifications |
 
-### Vista postman
+### postman view
 - example enpoint `http://localhost:4000/api/v1/products?page=2&classifications=perros,gatos`
 
   On page two there are only two objects with `name Classification: "gato"`
