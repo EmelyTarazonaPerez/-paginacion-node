@@ -10,7 +10,8 @@
 
 ### Vista postman
 - example enpoint `http://localhost:4000/api/v1/products?page=2&classifications=perros,gatos`
-  
+
+  On page two there are only two objects with `name Classification: "gato"`
 ```
 [
     {
