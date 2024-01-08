@@ -1,6 +1,6 @@
 # Project description :sparkling_heart:	
 
-- Project created using pagination and product classification enpoint
+- Project created using pagination and product classification enpoint.
 
 ## Enpoint created :point_down:	
 | Enpoint | Description |
